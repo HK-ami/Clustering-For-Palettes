@@ -14,7 +14,7 @@ Applying the same model to the data of Sunflowers picture, but keeping the previ
 
 Then the first procedure was carried out obtainind the Sunflowers 12 colors palette.
 
-![alt text](https://github.com/HK-ami/Clustering-For-Palettes/blob/main/PallettaSun.png)
+![alt text](https://github.com/HK-ami/Clustering-For-Palettes/blob/main/PalettaSun.png)
 
 And this time, the Starry Night was recolored using the Sunflowers main colors.
 
