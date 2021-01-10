@@ -1,7 +1,6 @@
 # Clustering-For-Palettes #
 
 ### A picture of Van Gogh's Starry Night was transformed into a matrix of RGB values and intensity elements. ###
-
 ![alt text](https://github.com/HK-ami/Clustering-For-Palettes/blob/main/VanGogh1.png)
 
 A clustering model (MiniBatchKMeans) was applied on the data separating them into 12 clusters, which provided a colors palette for the picture.
@@ -19,6 +18,7 @@ And this time, the Starry Night was recolored using the Sunflowers main colors.
 
 The picture A Pair of Boots was also recolored using Starry Night palette.
 ![alt text](https://github.com/HK-ami/Clustering-For-Palettes/blob/main/Boots_Starry.png)
+
 And Sunflowers palette.
 ![alt text](https://github.com/HK-ami/Clustering-For-Palettes/blob/main/Boots_Sun.png)
 
