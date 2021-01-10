@@ -6,7 +6,7 @@
 
 A clustering model (MiniBatchKMeans) was applied on the data separating them into 12 clusters, which provided a colors palette for the picture.
 
-![alt text](https://github.com/HK-ami/Clustering-For-Palettes/blob/main/Palette_Starry.png)
+![alt text](https://github.com/HK-ami/Clustering-For-Palettes/blob/main/PalettaStarry.png)
 
 Applying the same model to the data of Sunflowers picture, but keeping the previous clusters, it was obtained a recolored version of Sunflowers with the Starry Night's color palette.
 
@@ -14,7 +14,7 @@ Applying the same model to the data of Sunflowers picture, but keeping the previ
 
 Then the first procedure was carried out obtainind the Sunflowers 12 colors palette.
 
-![alt text](https://github.com/HK-ami/Clustering-For-Palettes/blob/main/Pallette_Sun.png)
+![alt text](https://github.com/HK-ami/Clustering-For-Palettes/blob/main/PallettaSun.png)
 
 And this time, the Starry Night was recolored using the Sunflowers main colors.
 
