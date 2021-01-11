@@ -32,3 +32,6 @@ Then, a famous picture from another painter was taken and recolored with Starry 
 ![alt text](https://github.com/HK-ami/Clustering-For-Palettes/blob/main/Scream_Starry.png)
 
 How does the evoked feelings change with that?
+
+
+PS: The content used for this work was learnt during the event Girls In Tech - Global Classroom: Code G Level II, by Python Charmers.
